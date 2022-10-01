@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/cb/3a/63/cb3a6308dac8dd95c8bcc2131ac3c0f4.jpg");
+    background-repeat: no-repeat;
+}
+
+.logo_love {
+  font-size: 40px;
+
+}
+
+.star {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatar {
+    background-image: url("https://scontent.fsgn8-4.fna.fbcdn.net/v/t1.15752-9/298797657_803340751079465_2354174143184229969_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=gW8ZHvvhfREAX-XW0RY&_nc_oc=AQl8zjn3IKn9884bmOPP_Euuyrwde4BJ9yM98kbgrnqZShbdm1m_P-NwpTTE_p8fuDU&_nc_ht=scontent.fsgn8-4.fna&oh=03_AVJmflO5mJnJpOgYV9CmK-THpuD3fbpVxdZc1mjfJ0_aMA&oe=635BE551");
+    background-size: 100px;
+    border-radius: 100%;
+    padding: 98px;
+    width: 5px;
+    margin: 0 85%;
+}
+
+.text {
+    color: black;
+    text-align: end;
+    letter-spacing: 3px;
+    text-transform: lowercase;
+}
+
+.text2 {
+    color: black;
+    text-align: end;
+    letter-spacing: 3px;
+    text-transform: lowercase;
+}
+
+.audio {
+    text-align: end;
+}
+
+
